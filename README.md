@@ -1,4 +1,4 @@
-## Welcome to My site
+## Welcome to [my site](https://mbuhendwa.github.io)
 
 <!-- You can use the [editor on GitHub](https://github.com/mbuhendwa/mbuhendwa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
